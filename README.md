@@ -33,23 +33,23 @@ The bot takes a user’s question as input and returns an AI-generated answer.
    cd langchain-qa-bot
 
 
-**Create a .env file and add your API keys**:
+## **Create a .env file and add your API keys**:
 
 GROQ_API_KEY=your_groq_api_key_here
 
 GEMINI_API_KEY=your_gemini_api_key_here
 
 
-**Open a notebook in Jupyter or Google Colab**:
+## **Open a notebook in Jupyter or Google Colab**:
 
 main_gemini.ipynb
 
 main_groq.ipynb
 
-**Run the cells** and start asking questions!
+ Run the cells and start asking questions!
 
 
-📚 **Tech Stack**
+## 📚 **Tech Stack**
 
 Python
 
@@ -59,6 +59,6 @@ Groq API
 
 Gemini API
 
-🤝 **Contributing**
+## 🤝 **Contributing**
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
